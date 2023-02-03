@@ -1,0 +1,16 @@
+nav {
+  background-color: #0C9;
+
+  li{
+    padding: 20px;
+    color: white;
+    .Navlink{
+      color: white;
+     text-decoration: none;
+    }
+    .Navlink:hover{
+      color: #C00;
+      text-decoration: none;
+    }
+  }
+}
